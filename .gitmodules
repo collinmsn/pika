@@ -16,3 +16,6 @@
 [submodule "third/rocksdb"]
 	path = third/rocksdb
 	url = https://github.com/facebook/rocksdb.git
+[submodule "third/memcached"]
+	path = third/memcached
+	url = https://github.com/memcached/memcached.git
